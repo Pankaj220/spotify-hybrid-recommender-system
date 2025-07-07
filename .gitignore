@@ -85,3 +85,7 @@ Desktop.ini
 
 #local remote
 /S3
+
+
+# files
+/transformer.joblib
