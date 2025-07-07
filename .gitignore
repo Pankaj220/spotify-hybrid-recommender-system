@@ -82,3 +82,6 @@ Desktop.ini
 # DVC
 .dvc/cache/
 .dvc/tmp/
+
+#local remote
+/S3
